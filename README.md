@@ -1,5 +1,5 @@
-# pythonProject
-BASIC SOCKET PROGRAMMING
+# BASIC SOCKET PROGRAMMING
+
 
 server.py creates a server from your ip address and a port number(which you choose)
 client.py create a socket and you be able to send messages to server.
